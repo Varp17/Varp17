@@ -1,47 +1,196 @@
-<h1 align="center">Hi 👋, I'm Varun Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varp17&label=Profile%20views&color=0e75b6&style=flat" alt="varp17" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varp17" alt="varp17" /></a> </p>
+  <h1>
+    HELLO, I'M VARUN PATIL&nbsp;
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=06BEB0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Backend+Focused+Engineer;REST+API+%26+Database+Specialist" /> </a> </h3>
+  </h1>
 
-- 📫 How to reach me **varunpatil0217@gmail.com**
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?
+        font=Fira+Code&
+        weight=600&
+        size=26&
+        pause=1000&
+        color=06BEB0&
+        center=true&
+        vCenter=true&
+        width=650&
+        lines=Full+Stack+Developer;
+        Java+%7C+Spring+Boot+%7C+React;
+        Backend+Focused+Engineer;
+        REST+API+%26+Database+Specialist" 
+      />
+    </a>
+  </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varun-patil0217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-patil0217" height="30" width="40" /></a>
-</p>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    width="500"
+  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varp17&show_icons=true&locale=en&layout=compact" alt="varp17" /></p>
+  <a href="mailto:varunpatil0217@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varp17&show_icons=true&locale=en" alt="varp17" /></p>
+  <a href="https://www.linkedin.com/in/chinmaya-kolhe-34165524a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varp17&" alt="varp17" /></p>
+  <a href="https://github.com/ChinmayaKolhe">
+    <img src="https://komarev.com/ghpvc/?username=ChinmayaKolhe&label=Profile%20Views&color=06beb0&style=for-the-badge" />
+  </a>
+
+</div>
+
+---
 
 
-### Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varp&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varp&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varp&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varp&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=varp&theme=github&utcOffset=3)
+<h2>✨ Table of Contents</h2></summary>
+  
+  - [🚀 About Me](#-about-me)
+  - [🛠️ Technical Skills](#-technical-skills)
+  - [💼 Featured Projects](#-featured-projects)
+  - [💼 Professional Experience](#-professional-experience)
+  - [🎓 Education](#-education)
+  - [🏆 Achievements](#-achievements--certifications)
+  
 
 
-<!--
-**varp/varp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 **B.Tech Computer Engineering Student**  
+💻 **Full-Stack Developer** with strong backend expertise  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring **Software Developer** with a solid foundation in **Core Java, OOP, Collections, JDBC, and Spring Boot**, complemented by hands-on experience building **REST APIs**, integrating **PostgreSQL / MySQL**, and developing **React-based frontends**.
 
+I thrive in fast-paced environments, enjoy solving real-world problems, and focus on writing **clean, scalable, and production-ready code**.
+
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,cpp,python,sql&theme=dark" />
+
+### 🔧 Backend Development
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+- Spring Boot, Spring MVC, JPA/Hibernate  
+- REST API Development, JWT Authentication  
+- Servlets, JSP, MVC Architecture  
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,idea&theme=dark" />
+
+---
+
+### ⚖️ LegalAssist – AI Legal Assistance Platform
+**Tech:** React · JavaScript · MongoDB · Gemini API  
+
+> An AI-powered legal case tracking and assistance system.
+
+- 🔐 JWT-based authentication system
+- 🤖 AI-powered legal Q&A using Gemini API
+- 💬 Lawyer–client messaging workflow
+- 🚀 Deployed for mock usage (5+ users) and showcased at national competitions
+
+---
+## 💼 Professional Experience
+
+### 🏢 Vasify Technologies — *Jr Full-Stack Developer*  
+📍 Remote (Mumbai) | **Dec 2025 – Present**
+
+- Developed and maintained backend APIs using **Spring Boot & Node.js**
+- Built responsive **React.js** frontend components
+- Integrated **WhatsApp APIs** for automated messaging workflows
+- Collaborated with founders and stakeholders for rapid feature delivery
+- Participated in debugging, deployment readiness, and client discussions
+
+---
+
+### 🏢 Sumago Infotech — *Java Trainee*  
+📍 Jalgaon | **Jun 2023 – Jul 2023**
+
+- Hands-on training in **Core Java, OOP, JDBC**
+- Built desktop UI modules using **AWT/Swing**
+- Implemented CRUD operations using **MySQL**
+- Worked with **Servlets & JSP** following MVC architecture
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Bachelor of Technology
+**Pimpri Chinchwad College of Engineering, Pune**  
+📚 Information Technology  
+📅 2024 - Present  
+⭐ CGPA: **8.75/10**
+
+</td>
+<td width="50%">
+
+### 📜 Diploma in Computer Engineering
+**Government Polytechnic, Jalgaon**  
+📅 2021 - 2024  
+🏆 **93.49%** (District Topper)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Academic Excellence** - District Topper in Diploma Computer Engineering (93.49%)
+- 🌱 **Innovation Award** - Copyright for Solar-Powered Automated Smart Gardening System
+- 📱 **Android App Development** - Java & Android Studio
+- ☕ **Core & Advanced Java** - Certification
+- 💻 **Hackathon Achievement** - Participant, DevClash Hackathon
+
+---
+
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:chinmayakolhe2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/chinmaya-kolhe-34165524a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ChinmayaKolhe">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>

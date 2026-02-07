@@ -3,7 +3,7 @@
 
   <h1>
     HELLO, I'M VARUN PATIL&nbsp;
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=06BEB0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Backend+Focused+Engineer;REST+API+%26+Database+Specialist" /> </a> </h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06BEB0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Backend+Focused+Engineer;REST+API+%26+Database+Specialist" /> </a> </h3>
   </h1>
 
   <h3>
@@ -137,8 +137,8 @@ I thrive in fast-paced environments, enjoy solving real-world problems, and focu
 <td width="50%">
 
 ### 🎓 Bachelor of Technology
-**Pimpri Chinchwad College of Engineering, Pune**  
-📚 Information Technology  
+**Godavari College of Engineering, Jalgaon**  
+📚 Computer Engineering  
 📅 2024 - Present  
 ⭐ CGPA: **8.75/10**
 
@@ -148,7 +148,7 @@ I thrive in fast-paced environments, enjoy solving real-world problems, and focu
 ### 📜 Diploma in Computer Engineering
 **Government Polytechnic, Jalgaon**  
 📅 2021 - 2024  
-🏆 **93.49%** (District Topper)
+🏆 **85.77%**
 
 </td>
 </tr>
